@@ -1,3 +1,12 @@
+# Hulu-Clone-Project with ReactJs, NextJs, TailwindCSS
+
+# Hulu Clone Link => [Click Me!](https://hulu-clone-kappa-bice.vercel.app/)
+
+### The app is deployed using Vercel
+
+### `Author`
+Nazile Tağ
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
